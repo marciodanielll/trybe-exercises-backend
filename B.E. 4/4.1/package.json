@@ -4,12 +4,14 @@
   "description": "",
   "main": "exercicio1.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1", 
-    "lint": "eslint --ext .js .", 
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint --ext .js .",
     "bmi": "node exercicio2.js"
-
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }

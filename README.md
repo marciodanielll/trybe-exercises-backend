@@ -26,5 +26,5 @@ Esta mensagem foi escrita em ```30 de janeiro de 2023```. Informo que este ```re
   - [ ] 3.3 Transformando ideias em banco de dados
 ---
 - [ ] B.E. 4 - [Introdução ao desenvolvimento Web cm Node.js](https://github.com/marciodanielll/trybe-exercises-backend/tree/main/B.E.%204)
-  - [ ] 4.1 [Node.js: Runtime Assíncrono](https://github.com/marciodanielll/trybe-exercises-backend/tree/main/B.E.%204/4.1)
----
+  - [X] 4.1 [Node.js: Runtime Assíncrono](https://github.com/marciodanielll/trybe-exercises-backend/tree/main/B.E.%204/4.1)
+  - [x] 4.2 [Node.js: API REST com Express]()

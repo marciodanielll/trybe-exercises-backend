@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "eslint-config-trybe-backend": "^2.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
   }
 }
